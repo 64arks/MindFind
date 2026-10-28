@@ -1,0 +1,7 @@
+{
+  "name": "MediFind Zambia",
+  "description": "Medicine availability information system for Lusaka, Zambia. Helping patients and families find participating pharmacies and healthcare facilities with verified stock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
